@@ -14,7 +14,6 @@ Welcome to SigMate, a web application that enables users to create and sign tran
 
     ```bash
     git clone https://github.com/olaoyesalem/SigMate.git
-    cd SigMate-Web-App
     ```
 
 2. Open `index.html` in your preferred web browser or deploy the app to a web server.
@@ -23,7 +22,7 @@ Welcome to SigMate, a web application that enables users to create and sign tran
 
 ## Medium Post
 
-For more in-depth information, please check out our [Medium post](your-medium-post-link) that provides insights into the motivation behind SigMate and a detailed guide on its functionalities.
+For more in-depth information, please check out our [Medium post](https://medium.com/@olaoyesalemgreat/sigmate-redefining-evm-transactions-empowering-secure-collaboration-through-digital-signatures-234c06828cfa) that provides insights into the motivation behind SigMate and a detailed guide on its functionalities.
 
 ## Contributing
 
